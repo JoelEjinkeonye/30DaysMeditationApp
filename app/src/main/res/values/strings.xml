@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">#0Days_NewCode</string>
+
+
+
+    <string name="day_1_activity">
+      Clarify your purpose for meditating. Understand your personal motivations and visualize the
+      benefits
+    </string>
+<!--    <string name="day_1_description">-->
+<!--        Before setting a daily meditation goal, determine your "why." Dig deep into your reasons-->
+<!--        beyond generic answers like "finding peace." Visualize the positive changes meditation will-->
+<!--        bring. Write down your personal motivations and place them where you'll see them daily.-->
+<!--        Guided meditation: Basic Body scan and breath awareness by Tara Brach (11 minutes)-->
+<!--    </string>-->
+
+    <string name="day_2_activity">Reflect on each meditation session to learn and grow</string>
+<!--    <string name="day_2_description">-->
+<!--     A successful meditation involves learning and growing, not just a quiet mind. Take time after-->
+<!--        each session to reflect on your experience. Use a reflection template to increase awareness-->
+<!--        and personal growth. Guided meditation: The RAIN of Self-Compassion by Tara Brach-->
+<!--        (11 minutes)-->
+<!--    </string>-->
+
+    <string name="day_3_activity">
+        Create a dedicated, clutter-free, and comfortable space for meditation
+    </string>
+<!--    <string name="day_3_description">-->
+<!--        The physical environment influences mindfulness practice. Create a mindful corner free of-->
+<!--        clutter and distractions, and make it comfortable to encourage regular practice. Share a-->
+<!--        picture of your space. Guided meditation: Basic instruction to listening-->
+<!--        by Luang Por Viradhammo-->
+<!--    </string>-->
+
+    <string name="day_4_activity">
+        Reflect on thought patterns and how meditation affects daily experiences
+    </string>
+<!--    <string name="day_4_description">-->
+<!--        Meditation helps understand oneself and nature. Reflect on daily experiences and how they-->
+<!--        affect your mind. Consider thought patterns, causes of peace or restlessness, and how-->
+<!--        meditation contributes to happiness. Guided meditation: Mental Noting by Charles Freligh,-->
+<!--        PhD-->
+<!--    </string>-->
+
+    <string name="day_5_activity">
+        Learn the attitudes of mindfulness as outlined by Jon Kabat Zinn
+    </string>
+<!--    <string name="day_5_description">-->
+<!--        Jon Kabat-Zinn outlines attitudes like non judging, patience, and acceptance that support-->
+<!--        mindfulness practice. Read the introductory page and begin to incorporate these attitudes.-->
+<!--        Guided meditation by Jon Kabat Zinn-->
+<!--    </string>-->
+
+    <string name="day_6_activity">
+        Cultivate a non-judging mind to free yourself from thought prisons
+    </string>
+<!--    <string name="day_6_description">-->
+<!--        Our minds constantly judge. Learn to cultivate a non judging mind to avoid being imprisoned-->
+<!--        by thoughts. Listen to Jon Kabat Zinns insights. Guided meditation:-->
+<!--        The judging mind by Joseph Goldstein-->
+<!--    </string>-->
+
+    <string name="day_7_activity">Learn how to cultivate patience and its benefits</string>
+<!--    <string name="day_7_description">-->
+<!--        Impatience can cause us to miss the present moment. Reflect on cultivating patience and its-->
+<!--        benefits. Guided meditation: Finding peace through patience by Amy Pattee Colvin-->
+<!--    </string>-->
+
+    <string name="day_8_activity">
+        Approach meditation with a beginners mind to find novelty and growth
+    </string>
+<!--    <string name="day_8_description">-->
+<!--      Meditation can become monotonous. A beginners mind helps find novelty and grow in wisdom.-->
+<!--      Listen to Jon Kabat Zinns insights. Guided meditation: Simply begin again by Joseph-->
+<!--        Goldstein-->
+<!--    </string>-->
+
+    <string name="day_9_activity">
+        Cultivate trust in yourself and your ability to overcome challenges
+    </string>
+<!--    <string name="day_9_description">-->
+<!--        Learn how trust can be cultivated in meditation and applied to daily life. Watch an-->
+<!--        interview on the attitude of trust. Guided meditation: Trust in self and others by Ashley Brodeur-->
+<!--    </string>-->
+
+    <string name="day_10_activity">
+        Let go of striving in meditation and allow things to unfold naturally
+    </string>
+<!--    <string name="day_10_description">-->
+<!--        Release the doing-mind and allow meditation to unfold naturally. Watch a clip about the-->
+<!--        beauty of non-striving. Guided meditation: Let go by Ajahn Amaro-->
+<!--    </string>-->
+
+    <string name="day_11_activity">Learn to let go of thoughts and attachments</string>
+<!--    <string name="day_11_description">-->
+<!--        Brain research shows letting go is difficult. Explore the feeling of holding on and the-->
+<!--        benefits of letting go. Watch a clip about letting go. Guided meditation: Letting go by-->
+<!--        Bhante Sujatha-->
+<!--    </string>-->
+
+    <string name="day_12_activity">Learn to accept pain and unpleasant feelings.</string>
+<!--    <string name="day_12_description">-->
+<!--        Learn to welcome pain and unpleasant feelings. Jon Kabat-Zinn shares how he teaches-->
+<!--        acceptance to patients with chronic pain. Guided meditation: Acceptance by Bhante Sujatha-->
+<!--    </string>-->
+
+    <string name="day_13_activity">
+        Explore the interconnectedness of gratitude and generosity
+    </string>
+<!--    <string name="day_13_description">-->
+<!--        Understand how gratitude and generosity are interconnected and how they contribute to-->
+<!--        seeing things as they are. Guided meditation: Gratitude for the miracle breath and body-->
+<!--        by Dr Elise Bialylew-->
+<!--    </string>-->
+
+    <string name="day_14_activity">Re-frame the experience of a restless mind</string>
+<!--    <string name="day_14_description">-->
+<!--        Learn to reframe the experience of being lost in thoughts. Understand that its a normal-->
+<!--        part of meditation. Guided meditation: A meditation for patience and resolve by Mark Bertin-->
+<!--    </string>-->
+
+    <string name="day_15_activity">Learn how to deal with daydreaming during meditation</string>
+<!--    <string name="day_15_description">-->
+<!--        Explore how to deal with daydreaming during meditation. Consider practicing doing nothing-->
+<!--        and observing the mind. Guided meditation: Place attention to the nature of your mind with-->
+<!--        Vinny Ferraro-->
+<!--    </string>-->
+
+    <string name="day_16_activity">Establish morning and evening meditation rituals</string>
+<!--    <string name="day_16_description">-->
+<!--        Create consistent meditation times, such as before breakfast-->
+<!--        or before bed. Remind yourself of your initial motivations. Guided meditations:-->
+<!--        Buddha Morning and Buddha Evening by Jonathan Lehmann-->
+<!--    </string>-->
+
+    <string name="day_17_activity">Use simple yardsticks to measure progress in meditation</string>
+<!--    <string name="day_17_description">-->
+<!--        Assess progress by observing reductions in greed, aversion,-->
+<!--        and ignorance, and by noting increased responsiveness and reduced stress. Guided meditation:-->
+<!--        Vipassana meditation by Tara Brach-->
+<!--    </string>-->
+
+    <string name="day_18_activity">
+        Learn to face reality with courage and deal with painful feelings
+    </string>
+<!--    <string name="day_18_description">-->
+<!--        Learn to deal with painful feelings instead of running away. Thich Nhat Hahn shares a-->
+<!--        sustainable way to handle unbearable feelings. Guided meditation: Transforming-->
+<!--        Difficult Emotions by Patty Hlava, Ph.D-->
+<!--    </string>-->
+
+    <string name="day_19_activity">
+        Learn to take care of unpleasant emotions with mindfulness
+    </string>
+<!--    <string name="day_19_description">-->
+<!--        Learn to embrace and care for painful emotions with mindfulness, like a mother holding-->
+<!--        a crying child. Guided meditations: Processing unpleasant feelings by DarioHealth-->
+<!--        (4 minutes) and Mindfulness Meditation For Stress And Worry by Hugh Byrne-->
+<!--    </string>-->
+
+    <string name="day_20_activity">Acknowledge limitations and be open to seeking help</string>
+<!--    <string name="day_20_description">-->
+<!--        Recognize that meditation is not a cure-all and be open to seeking additional help.-->
+<!--        Read an article about things to know before starting meditation. Guided reflection:-->
+<!--        Caring for your inner child by Charles-->
+<!--    </string>-->
+
+    <string name="day_21_activity">Explore the practice of Loving-kindness meditation</string>
+<!--    <string name="day_21_description">-->
+<!--        Understand the concept of Loving-kindness and its connection to courage and success.-->
+<!--        Guided meditation: Loving kindness by Sharon salzberg-->
+<!--    </string>-->
+
+    <string name="day_22_activity">Extend loving-kindness to yourself and others</string>
+<!--    <string name="day_22_description">-->
+<!--        Practice sending goodwill to yourself and others. Guided meditation: Loving this life; metta-->
+<!--        meditation by Tara Brach-->
+<!--    </string>-->
+
+    <string name="day_23_activity">Extend goodwill even to those you find difficult</string>
+<!--    <string name="day_23_description">-->
+<!--        Recognize the difficulty of sending goodwill to those you dislike and gradually work towards-->
+<!--        freeing your heart from enmity-->
+<!--    </string>-->
+
+    <string name="day_24_activity">Overcoming the 5 hindrances</string>
+<!--    <string name="day_24_description">-->
+<!--      Learn about the five hindrances (sensory desire, ill-will, sloth-and-torpor, restlessness,-->
+<!--      and doubt) and how they affect meditation. Watch Master Shi Heng Yi's explanation of these-->
+<!--      mental states. Guided meditation: the 5 hindrances-->
+<!--    </string>-->
+
+    <string name="day_25_activity">Accessing inner wisdom</string>
+<!--    <string name="day_25_description">-->
+<!--        Address the question of maintaining well-being in a changing world.-->
+<!--        Watch Master Shi Heng Yi\'s response.  Guided meditation: Strengthen the access to your-->
+<!--        inner wisdom by Dr Karolien Notebaert-->
+
+<!--    </string>-->
+
+    <string name="day_26_activity">How to cope with stress</string>
+<!--    <string name="day_26_description">-->
+<!--        Discuss stress management, including the role of relaxation activities.-->
+<!--        Watch an interview with Dan Harris and Jeff Warren for practical advice. Guided meditation:-->
+<!--        Mindfulness Practice For Stress Reduction by Beth Kurland, Ph.D-->
+<!--    </string>-->
+
+    <string name="day_27_activity">Dealing with work stress</string>
+<!--    <string name="day_27_description">-->
+<!--        Explore how to handle work-related stress. Watch Timber Hawkeyes-->
+<!--        advice on dealing with job stress. Guided meditation: Visualisation for stress elimination-->
+<!--    </string>,-->
+
+    <string name="day_28_activity">Staying Present</string>,
+<!--    <string name="day_28_description">-->
+<!--        Discuss the challenges of staying present and the importance of not getting caught up in-->
+<!--        past or future thoughts. Learn techniques for staying present, such as breath awareness and-->
+<!--        cultivating the Observer. Watch Eckhart's explanation. Guided meditation:-->
+<!--        Breath meditation by Luang Por Viradhammo-->
+<!--    </string>,-->
+
+    <string name="day_29_activity">Mindfulness in daily life</string>,
+<!--    <string name="day_29_description">-->
+<!--        Highlight the importance of integrating meditation practice into daily life. Learn how-->
+<!--        mindfulness can help navigate the demands of modern life. Watch Jon Kabat-Zinns insights-->
+<!--        on mindfulness in everyday life. Guided meditation: Walking meditation by Tara Brach-->
+<!--    </string>,-->
+
+    <string name="day_30_activity">Continuing the practice</string>,,
+<!--    <string name="day_30_description">-->
+<!--      Acknowledge the efforts made during the challenge and encourage continued practice, even-->
+<!--      if it\'s just for a few minutes daily. Emphasize that mindfulness extends beyond formal-->
+<!--      meditation sessions. Listen to Ajahn Dhammasiha's recording on integrating meditation into-->
+<!--      daily life and use the daily mindfulness habit tracker-->
+<!--    </string>-->
+
+    <string name="show_more">Show more</string>
+    <string name="show_less">Show less</string>
+
+</resources>
